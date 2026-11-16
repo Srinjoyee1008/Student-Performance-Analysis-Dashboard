@@ -1,3 +1,9 @@
+It’s a student performance analysis and early-warning system. It takes a class or school’s data (marks, attendance, study hours, sleep, previous exam, parent education, internet access, tutoring) and does three things:
+
+Describes performance: averages, pass rate, spread, and how subjects compare.
+Explains what drives results, using correlations and group comparisons.
+Predicts which students are likely to fall below the pass mark before the exam, so teachers can help early.
+
 # Student Performance Analysis & Early-Warning System
 
 Analyses student marks and habits, finds what drives results, predicts which students are
